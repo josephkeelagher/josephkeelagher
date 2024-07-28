@@ -8,7 +8,7 @@ Get in contact with me! \
 
 ### Currently
 
-- 🎓 In my last semester at The University of Melbourne
+- 🎓 I'm in my last semester at The University of Melbourne.
 - 🤔 I’m searching for opportunities in the Software & Data space.
 - ⚽ I'm an avid football (soccer) fan.
 - ⚡ Fun fact: The first 'bug' was a real moth found inside a computer in 1947.
